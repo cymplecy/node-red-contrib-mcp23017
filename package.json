@@ -3,7 +3,7 @@
     "version"      : "0.0.1",
     "description"  : "MCP23017 controller",
     "dependencies" : {
-		"node-mcp23017"
+		"node-mcp23017":"0.0.4"
     },
     "license"     : "Apache-2.0",
     "homepage"    : "https://github.com/afulki/node-red-contrib-mcp23017",
